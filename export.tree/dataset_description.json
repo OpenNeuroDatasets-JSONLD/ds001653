@@ -1,0 +1,9 @@
+{
+    "Name": "Mouse_rest_awake",
+    "BIDSVersion": "1.0.2",
+    "Authors": [
+        "Yeow Ling Yun",
+        "Joanes Grandjean"
+    ],
+    "Funding": "This work was supported by the Singapore Bioimaging Consortium core funds"
+}

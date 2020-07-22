@@ -5,5 +5,5 @@
         "Yeow Ling Yun",
         "Joanes Grandjean"
     ],
-    "Funding": "This work was supported by the Singapore Bioimaging Consortium core funds"
+    "Funding": ["This work was supported by the Singapore Bioimaging Consortium core funds"]
 }
